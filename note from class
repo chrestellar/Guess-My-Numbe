@@ -1,0 +1,20 @@
+/*
+console.log(document.querySelector('.message').textContent); // select the class
+document.querySelector('.message').textContent = 'Correct Number!🎊';
+console.log(document.querySelector('.message').textContent);
+
+document.querySelector('.number').textContent = 13;
+document.querySelector('.score').textContent = 10;
+
+document.querySelector('.guess').value = 23;
+console.log(document.querySelector('.guess').value);
+*/
+
+//Event listener
+
+// document.querySelector('.check').addEventListener('click', function () {
+//   console.log(document.querySelector('.guess').value);
+
+//   //document.querySelector('.message').textContent = 'Correct Number!🎊';
+// });
+//this code means, when button is clicked, 1) the value will log to the console, 2) .message's text will change to correct number
